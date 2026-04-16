@@ -1,0 +1,1 @@
+{"name":"CBOR Editor","short_name":"CBOR","description":"一款支持移动端的 CBOR 数据编辑工具","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#3b82f6","lang":"en","scope":"./","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
